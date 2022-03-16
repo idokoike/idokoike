@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @idokoike
+- 👀 I’m interested in Front-end Web Devlopment and Chip Design...
+- 🌱 I’m currently learning Front-end Web Devlopment...
+- 📫 How to reach me - TWITTER - @IDOKOIKENNADAN1...
+
+<!---
+idokoike/idokoike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
